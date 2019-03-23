@@ -1,0 +1,4 @@
+.rounded-canvas .cropper-view-box,
+.rounded-canvas .cropper-face {
+  border-radius: 50% 
+}

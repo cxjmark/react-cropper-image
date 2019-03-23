@@ -1,0 +1,13 @@
+{
+  "name": "react-cropper-image",
+  "version": "0.0.1",
+  "description": "react图片裁剪",
+  "main": "/src/index.js",
+  "author": "Mark",
+  "license": "MIT",
+  "dependencies": {
+    "cropperjs": "^1.5.1",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.5"
+  }
+}
